@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bilgi Sistemi</string>
+    <string name="title_activity_ekran1">Ekran 1</string>
+    <string name="title_activity_ekran2">Bilgi Ekranı</string>
+    <string name="title_activity_ekran3">Derslerim</string>
+</resources>
